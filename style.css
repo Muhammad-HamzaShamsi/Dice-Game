@@ -1,0 +1,53 @@
+body{
+  background-color: #393E46;
+}
+
+.dice{
+  display: inline-block;
+  text-align: center;
+}
+
+.container{
+  margin: auto;
+  text-align: center;
+  width: 70%;
+}
+
+img{
+  width: 80%;
+}
+
+p{
+font-family: 'Monoton', cursive;
+  font-size: 2rem;
+  color: #4ECCA3;
+  text-align: center;
+}
+
+h1{
+  margin: 30px;
+  font-family:'Lobster', cursive;
+  color: #4ECCA3;
+  font-size: 8rem;
+  text-align: center;
+  text-shadow: 5px 0px #232931;
+}
+
+
+
+
+footer{
+  margin: 30px;
+  font-family:'Lobster', cursive;
+  color: white;
+  font-size: 2rem;
+  text-align: center;
+  display: block;
+}
+
+
+
+
+span {
+  content: "\00A9";
+}
